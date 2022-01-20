@@ -1,0 +1,52 @@
+@import 'bootstrap/dist/css/bootstrap';
+
+
+.navbar-brand{
+	font-size: 20px;
+}
+
+.search-area{
+	padding-top: 50px;
+}
+
+.no-right-padding {
+    padding-right: 0 !important;
+}
+
+.no-left-padding {
+    padding-left: 0 !important;
+}
+
+.results-block {
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+
+.logout-button{
+    margin-right: 5px;
+}
+
+.user-name{
+    margin-top: 3.5%;
+    padding-right: 5px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: lightgrey;
+  color: white;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    padding-top: 50px;
+
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
